@@ -32,7 +32,7 @@ turn red when motion is detected (e.g 10 seconds)
 
 # To Run
   <i> 1. Install Required Dependencies </i>
-        * on your command prompt type - pip3 install -r requirements.txt
+        on your command prompt type - pip3 install -r requirements.txt
 
 
 
