@@ -17,12 +17,17 @@ No motion / Parking detected (green roi)
 Motion Detected (red roi)
 ![ManualCapture3](https://user-images.githubusercontent.com/93422550/139554342-11f9c42d-5a34-4316-be98-5fb3a2dd971c.png)
 
-# Tools Important to install!!
+# Tools Important to install
   * Python 3.9.7 
   * Microsoft Visual Studio and C++ Build Tools
   * CUDA and CUDNN for NVIDIA for using GPU (optional)
   * Protoc for Protocol Buffers from the official Github Repo
   * Tensorflow Object Detection API for use with Python (optional)
-  
+# Links used
+  * Visual Studio - https://visualstudio.microsoft.com/vs... 
+  * CUDA 10.1 -  https://developer.nvidia.com/cuda-10....
+  * CUDNN 7.6.5 -  https://developer.nvidia.com/rdp/cudn... 
+  * Protoc - https://github.com/protocolbuffers/pr...
+  * Tensorflow Models GitHub - https://github.com/tensorflow/models 
 
 
