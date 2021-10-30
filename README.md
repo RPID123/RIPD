@@ -49,6 +49,14 @@ User also can use manual screenshot function fo the system for gathering evidenc
         on your command prompt type - pip3 install -r requirements.txt
         
   <i> 3. Read runme.txt </i>
+  
+  <i> 4. Program flow is as follows (make sure you are running inside "/Illegal_Parking" on cmd): </i>
+  
+  * User inputs file name for a video, a still image from the video or from the camera vision, and a path for the output file of parking space coordinates.
+  * User clicks 4 corners for each spot they want tracked. Presses 'q' when all desired spots are marked.
+  * Video begins with the user provided boxes overlayed the video. Occupied spots initialized with red boxes, available spots with green.
+
+<i> Note: if you want to change for testing you need to change or comment out the rtsp here then type and replace with "video" </i>
 
 # <i>Other Tools Used</i>
   * Laptop or PC for local server (High specs is better)
