@@ -17,5 +17,7 @@ No motion / Parking detected (green roi)
 Motion Detected (red roi)
 ![ManualCapture3](https://user-images.githubusercontent.com/93422550/139554342-11f9c42d-5a34-4316-be98-5fb3a2dd971c.png)
 
+scrollb = tkinter.Scrollbar(..., command=txt.yview)
+
 
 
