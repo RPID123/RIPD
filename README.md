@@ -38,8 +38,10 @@ the user can manually check and monitor the area using external monitor, user ca
 
 # To Run
   <i> 1. Clone Github Repository to your Local Storage </i>
+  
   <i> 2. Install Required Dependencies </i>
         on your command prompt type - pip3 install -r requirements.txt
+        
   <i> 3. Read runme.txt </i>
 
 # <i>Other Tools Used</i>
