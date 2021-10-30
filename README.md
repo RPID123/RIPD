@@ -17,8 +17,12 @@ No motion / Parking detected (green roi)
 Motion Detected (red roi)
 ![ManualCapture3](https://user-images.githubusercontent.com/93422550/139554342-11f9c42d-5a34-4316-be98-5fb3a2dd971c.png)
 
-# Tools
+# Tools Important to install!!
   * Python 3.9.7 
-
+  * Microsoft Visual Studio and C++ Build Tools
+  * CUDA and CUDNN for NVIDIA for using GPU (optional)
+  * Protoc for Protocol Buffers from the official Github Repo
+  * Tensorflow Object Detection API for use with Python (optional)
+  
 
 
