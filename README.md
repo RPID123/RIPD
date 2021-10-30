@@ -9,7 +9,7 @@ Using AI based approach to detect illegal parking of vehicles (Mostly Cars) from
 
 # OVERVIEW
 Some overview of the detection performance tested by a toy decoy from IP camera using RTSP Protocol. Region of interest will stay green when no one parks, However will
-turn red when motion is detected (e.g 10 seconds). User also can use manual screenshot function fo the system for gathering evidence that will directly send to telegram application (mobile/PC) this can solve the problem of printing solid copy evidence and improve their efficiency and effectiveness in monitoring real-time.
+turn red when motion is detected (e.g 10 seconds). 
 
 <i>No motion / Parking detected (green roi)</i>
 ![ManualCapture4](https://user-images.githubusercontent.com/93422550/139554358-3ca26a7f-89eb-4c41-8465-894a30e4ac21.png)
@@ -18,8 +18,10 @@ turn red when motion is detected (e.g 10 seconds). User also can use manual scre
 ![ManualCapture3](https://user-images.githubusercontent.com/93422550/139554342-11f9c42d-5a34-4316-be98-5fb3a2dd971c.png)
 
 When the model detects motion inside the ROI automatic motion capture will trigger and save it via local storage and a desktop alert will send to the main server(in our case for testing we used laptop), Also autorecord of footage will trigger once the system is opened.
+![Screenshot (32)](https://user-images.githubusercontent.com/93422550/139555929-ee1a9897-bf5c-439d-b849-fff8fe3420e3.png)
 
-the user can manually check and monitor the area using external monitor, user can manually screenshot the particular event that will be save to the local storage and automatically send it to their telegram.
+User also can use manual screenshot function fo the system for gathering evidence that will directly send to "telegram application" (mobile/PC) this can solve the problem of printing solid copy evidence and improve their efficiency and effectiveness in monitoring real-time.
+
 
 
 # <i>Software Important to install</i>
