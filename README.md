@@ -18,7 +18,7 @@ Motion Detected (red roi)
 ![ManualCapture3](https://user-images.githubusercontent.com/93422550/139554342-11f9c42d-5a34-4316-be98-5fb3a2dd971c.png)
 
 # Tools
-  *Python 3.9.7 
+  * Python 3.9.7 
 
 
 
