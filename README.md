@@ -29,6 +29,7 @@ User also can use manual screenshot function fo the system for gathering evidenc
 
 
 # <i>Software Important to install</i>
+
   * Python 3.9.7 
   * Microsoft Visual Studio and C++ Build Tools
   * CUDA and CUDNN for NVIDIA for using GPU (optional)
@@ -36,6 +37,7 @@ User also can use manual screenshot function fo the system for gathering evidenc
   * Tensorflow Object Detection API for use with Python (optional)
   
 # <i>Links used</i>
+
   * Visual Studio - https://visualstudio.microsoft.com/vs... 
   * CUDA 10.1 -  https://developer.nvidia.com/cuda-10....
   * CUDNN 7.6.5 -  https://developer.nvidia.com/rdp/cudn... 
@@ -43,6 +45,7 @@ User also can use manual screenshot function fo the system for gathering evidenc
   * Tensorflow Models GitHub - https://github.com/tensorflow/models 
 
 # To Run
+
   <i> 1. Clone Github Repository to your Local Storage </i>
   
   <i> 2. Install Required Dependencies </i>
@@ -57,6 +60,8 @@ User also can use manual screenshot function fo the system for gathering evidenc
   * Video begins with the user provided boxes overlayed the video. Occupied spots initialized with red boxes, available spots with green.
 
 <i> Note: if you want to change for testing you need to change or comment out the rtsp here then type and replace with "video" </i>
+
+![Screenshot (34)](https://user-images.githubusercontent.com/93422550/139556348-1344a4ee-d359-462f-9bf3-7f9a1d79e9c0.png)
 
 # <i>Other Tools Used</i>
   * Laptop or PC for local server (High specs is better)
