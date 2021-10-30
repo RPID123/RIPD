@@ -6,3 +6,5 @@ In this work, we present an illegal parking detection system based on a deep lea
 
 # SOLUTION
 Using AI based approach to detect illegal parking of vehicles (Mostly Cars) from an image. The model will receive a region of interest of an still image from the camera vision of through the user of the system, then it will try to predict the motion status inside the drawned ROI set by the user, then when a car goes inside the region of interest the model will automatically capture the event using screenshot and send an alert to the user. the user can now manually check and monitor the area using external monitor, user can manually screenshot the particular event that will be save to the local storage and automatically send it to their telegram.
+
+# OVERVIEW
